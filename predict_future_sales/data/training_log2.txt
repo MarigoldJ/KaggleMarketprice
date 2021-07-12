@@ -1,0 +1,201 @@
+Epoch 1/50
+4689/4689 - 8s - loss: 126.4297
+
+Epoch 00001: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 2/50
+4689/4689 - 7s - loss: 119.4766
+
+Epoch 00002: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 3/50
+4689/4689 - 7s - loss: 97.5780
+
+Epoch 00003: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 4/50
+4689/4689 - 6s - loss: 89.9810
+
+Epoch 00004: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 5/50
+4689/4689 - 7s - loss: 86.4908
+
+Epoch 00005: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 6/50
+4689/4689 - 7s - loss: 84.3635
+
+Epoch 00006: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 7/50
+4689/4689 - 7s - loss: 81.3782
+
+Epoch 00007: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 8/50
+4689/4689 - 7s - loss: 80.5759
+
+Epoch 00008: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 9/50
+4689/4689 - 7s - loss: 77.8029
+
+Epoch 00009: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 10/50
+4689/4689 - 7s - loss: 76.7802
+
+Epoch 00010: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 11/50
+4689/4689 - 7s - loss: 76.7049
+
+Epoch 00011: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 12/50
+4689/4689 - 7s - loss: 74.9338
+
+Epoch 00012: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 13/50
+4689/4689 - 6s - loss: 74.2698
+
+Epoch 00013: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 14/50
+4689/4689 - 6s - loss: 74.0624
+
+Epoch 00014: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 15/50
+4689/4689 - 6s - loss: 75.2699
+
+Epoch 00015: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 16/50
+4689/4689 - 6s - loss: 74.1037
+
+Epoch 00016: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 17/50
+4689/4689 - 6s - loss: 74.1120
+
+Epoch 00017: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 18/50
+4689/4689 - 6s - loss: 73.1061
+
+Epoch 00018: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 19/50
+4689/4689 - 6s - loss: 72.3713
+
+Epoch 00019: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 20/50
+4689/4689 - 6s - loss: 72.4413
+
+Epoch 00020: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 21/50
+4689/4689 - 6s - loss: 73.9105
+
+Epoch 00021: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 22/50
+4689/4689 - 7s - loss: 72.1930
+
+Epoch 00022: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 23/50
+4689/4689 - 6s - loss: 73.5481
+
+Epoch 00023: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 24/50
+4689/4689 - 6s - loss: 70.4563
+
+Epoch 00024: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 25/50
+4689/4689 - 6s - loss: 70.6201
+
+Epoch 00025: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 26/50
+4689/4689 - 6s - loss: 71.0360
+
+Epoch 00026: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 27/50
+4689/4689 - 7s - loss: 72.2821
+
+Epoch 00027: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 28/50
+4689/4689 - 7s - loss: 70.5109
+
+Epoch 00028: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 29/50
+4689/4689 - 7s - loss: 70.3126
+
+Epoch 00029: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 30/50
+4689/4689 - 7s - loss: 69.8850
+
+Epoch 00030: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 31/50
+4689/4689 - 7s - loss: 71.6229
+
+Epoch 00031: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 32/50
+4689/4689 - 7s - loss: 70.3048
+
+Epoch 00032: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 33/50
+4689/4689 - 7s - loss: 70.7398
+
+Epoch 00033: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 34/50
+4689/4689 - 7s - loss: 69.5257
+
+Epoch 00034: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 35/50
+4689/4689 - 7s - loss: 70.9185
+
+Epoch 00035: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 36/50
+4689/4689 - 7s - loss: 70.3148
+
+Epoch 00036: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 37/50
+4689/4689 - 7s - loss: 69.6085
+
+Epoch 00037: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 38/50
+4689/4689 - 7s - loss: 69.3423
+
+Epoch 00038: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 39/50
+4689/4689 - 7s - loss: 68.3477
+
+Epoch 00039: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 40/50
+4689/4689 - 7s - loss: 68.3923
+
+Epoch 00040: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 41/50
+4689/4689 - 7s - loss: 69.1595
+
+Epoch 00041: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 42/50
+4689/4689 - 7s - loss: 68.0374
+
+Epoch 00042: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 43/50
+4689/4689 - 7s - loss: 70.3579
+
+Epoch 00043: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 44/50
+4689/4689 - 7s - loss: 68.5871
+
+Epoch 00044: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 45/50
+4689/4689 - 7s - loss: 67.3158
+
+Epoch 00045: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 46/50
+4689/4689 - 7s - loss: 67.3472
+
+Epoch 00046: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 47/50
+4689/4689 - 7s - loss: 68.7852
+
+Epoch 00047: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 48/50
+4689/4689 - 7s - loss: 68.4731
+
+Epoch 00048: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 49/50
+4689/4689 - 7s - loss: 69.4161
+
+Epoch 00049: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Epoch 50/50
+4689/4689 - 7s - loss: 70.2958
+
+Epoch 00050: saving model to ./Model_check_point\final_checkpoint_20210712_2238.ckpt
+Mission Complete!!!
